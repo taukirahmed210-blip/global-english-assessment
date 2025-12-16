@@ -1,0 +1,74 @@
+<section id="home" class="hero">
+    <div>
+        <h2>Achieve Your Global Goals</h2>
+        <p>Expert preparation for top English exams and seamless study visa guidance for the UK, USA, and Australia.</p>
+    </div>
+</section>
+
+<section id="exams">
+    <h2>Comprehensive Exam Preparation</h2>
+    <p>We provide tailored support for leading English proficiency tests, including practice materials, mock exams, and personalized coaching.</p>
+    <div class="services">
+        <div class="service">
+            <h3>Duolingo English Test</h3>
+            <p>Adaptive online test prep with speaking, writing, reading, and listening modules. Ideal for quick certification.</p>
+            <p><strong>Duration:</strong> 2-4 weeks | <strong>Cost:</strong> $150</p>
+        </div>
+        <div class="service">
+            <h3>TOEFL iBT</h3>
+            <p>Full preparation for the internet-based test, focusing on academic skills and test strategies.</p>
+            <p><strong>Duration:</strong> 4-8 weeks | <strong>Cost:</strong> $250</p>
+        </div>
+        <div class="service">
+            <h3>Oxford ELLT</h3>
+            <p>Comprehensive training for the Oxford English Language Level Test, emphasizing real-world communication.</p>
+            <p><strong>Duration:</strong> 6 weeks | <strong>Cost:</strong> $200</p>
+        </div>
+        <div class="service">
+            <h3>Linguaskill</h3>
+            <p>Cambridge Linguaskill prep for business and academic English, with flexible online modules.</p>
+            <p><strong>Duration:</strong> 3-6 weeks | <strong>Cost:</strong> $180</p>
+        </div>
+    </div>
+</section>
+
+<section id="visas">
+    <h2>Study Visa Services</h2>
+    <p>End-to-end assistance for study visas, including application guidance, document preparation, and interview coaching.</p>
+    <div class="services">
+        <div class="service">
+            <h3>UK Study Visa</h3>
+            <p>Support for Tier 4 visas. We help with university applications, CAS letters, and immigration requirements.</p>
+            <p><strong>Popular Programs:</strong> Universities in London, Manchester, Edinburgh</p>
+        </div>
+        <div class="service">
+            <h3>USA Study Visa (F-1)</h3>
+            <p>Guidance for F-1 visas, including SEVIS forms, I-20 processing, and embassy interviews.</p>
+            <p><strong>Popular Programs:</strong> Ivy League schools, community colleges</p>
+        </div>
+        <div class="service">
+            <h3>Australia Study Visa (Subclass 500)</h3>
+            <p>Assistance with student visas, GTE statements, and health insurance for Australian universities.</p>
+            <p><strong>Popular Programs:</strong> Sydney, Melbourne, Perth institutions</p>
+        </div>
+    </div>
+</section>
+
+<section id="contact">
+    <h2>Contact Us</h2>
+    <p>Ready to excel? Book a free consultation today.</p>
+    <p><strong>Email:</strong> info@globalenglishassessment.com | <strong>Phone:</strong> +1-234-567-8900 | <strong>Address:</strong> 123 Education St, Global City</p>
+    <form action="#" method="post">
+        <label for="name">Name:</label><br>
+        <input type="text" id="name" name="name" required><br><br>
+        <label for="email">Email:</label><br>
+        <input type="email" id="email" name="email" required><br><br>
+        <label for="message">Message:</label><br>
+        <textarea id="message" name="message" rows="4" required></textarea><br><br>
+        <button type="submit">Send</button>
+    </form>
+</section>
+
+<footer>
+    <p>&copy; 2023 Global English Assessment. All rights reserved.</p>
+</footer>
